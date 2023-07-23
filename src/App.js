@@ -42,14 +42,14 @@ function App() {
         <div className="project">
           <h3>Project 1</h3>
           <p>A brief description of Project 1.</p>
-          <a href="#">Live Demo</a>
-          <a href="#">GitHub Repository</a>
+          <a href="https://github.com/kishorekichi">Live Demo</a>
+          <a href="https://github.com/kishorekichi">GitHub Repository</a>
         </div>
         <div className="project">
           <h3>Project 2</h3>
           <p>A brief description of Project 2.</p>
-          <a href="#">Live Demo</a>
-          <a href="#">GitHub Repository</a>
+          <a href="https://github.com/kishorekichi">Live Demo</a>
+          <a href="https://github.com/kishorekichi">GitHub Repository</a>
         </div>
         {/* Add more projects here */}
       </section>
@@ -89,7 +89,7 @@ function App() {
           LinkedIn: <a href="https://www.linkedin.com/in/kishorekumar-sundarasmay/">My profile</a>
         </p>
         <p>
-          GitHub: <a href="#"></a>
+          GitHub: <a href="https://github.com/kishorekichi">github page</a>
         </p>
       </section>
 
